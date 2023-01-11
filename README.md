@@ -10,5 +10,8 @@ How many liters is 400,000 acre-feet of water?
 What is the conversion factor?
 ![image](https://user-images.githubusercontent.com/35272876/211879637-4031c89b-964e-466b-a867-adeb6cbd8e71.png)
 
+## 3. Speed calcuation with a constant
+How long does it take light to travel the 150 million km from the Sun to Earth?
+![image](https://user-images.githubusercontent.com/35272876/211881719-a1e748e6-af6a-4099-816a-f31d90d681d8.png)
 
 
