@@ -3,8 +3,8 @@ Free spreadsheet-based unit converter
 
 # Examples
 ## 1. Water supply volume
-How many liters is 400,000 acre-feet of water?
-![image](https://user-images.githubusercontent.com/35272876/211879100-34c64d9f-06f5-416d-bf01-2115b84b204f.png)
+How many cubic meters is 400,000 acre-feet of water?
+![image](https://user-images.githubusercontent.com/35272876/211882171-bd631d8d-825f-43dd-b1c0-50c27af54252.png)
 
 ## 2. Convert flux units
 What is the conversion factor?
