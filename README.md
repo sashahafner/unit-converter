@@ -2,7 +2,8 @@
 Free spreadsheet-based unit converter
 
 # Examples
-How many gallons is 400,000 acre-feet?
+How many liters is 400,000 acre-feet of water?
 
-![image](https://user-images.githubusercontent.com/35272876/211878949-b0791065-487c-4a22-9122-433aa3e4e0d8.png)
+![image](https://user-images.githubusercontent.com/35272876/211879100-34c64d9f-06f5-416d-bf01-2115b84b204f.png)
+
 
