@@ -7,7 +7,7 @@ How many cubic meters is 400,000 acre-feet of water?
 ![image](https://user-images.githubusercontent.com/35272876/211882171-bd631d8d-825f-43dd-b1c0-50c27af54252.png)
 
 ## 2. Convert flux units
-What is the conversion factor?
+What is the conversion factor needed to scale up this mass flux unit?
 ![image](https://user-images.githubusercontent.com/35272876/211879637-4031c89b-964e-466b-a867-adeb6cbd8e71.png)
 
 ## 3. Speed calcuation with a constant
