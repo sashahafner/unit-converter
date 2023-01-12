@@ -5,7 +5,8 @@ Free spreadsheet-based unit converter
 [Download](https://github.com/sashahafner/unit-converter/raw/main/unit-converter.xlsx) the unit-converter.xlsx file and open it in Excel, LibreOffice Calc, or similar spreadsheet programs.
 Enter a input value, input units and exponents, and an output value is automatically calculated.
 Check detailed error messages in red if no value is returned.
-One common problem is a blank input unit cell--use "." instead.
+One common problem is a blank input unit cell. 
+Be sure to use "." instead.
 The examples below should be helpful for getting started.
 To reset the tool, simply close the file without saving changes.
 
