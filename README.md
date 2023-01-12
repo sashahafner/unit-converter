@@ -27,6 +27,9 @@ See the "C" sheet to find a description of the available constants.
 ## 4. Simple pressure conversion
 ![image](https://user-images.githubusercontent.com/35272876/212169989-fbe766de-3188-4483-9e21-fadad2382a13.png)
 
+## 5. Set units for ideal gas constant
+![image](https://user-images.githubusercontent.com/35272876/212171575-026cf3d7-2cc7-438a-b2ab-b5420b891e1d.png)
+
 
 # More details
 Use the "Regular" sheet unless you want to carry out a calculation that includes constants (see example 3 above).
