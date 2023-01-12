@@ -2,7 +2,7 @@
 Free spreadsheet-based unit converter
 
 # Getting started
-[Download](https://github.com/sashahafner/unit-converter/raw/main/unit-converter.xlsx) and open the unit-converter.xlsx file.
+[Download](https://github.com/sashahafner/unit-converter/raw/main/unit-converter.xlsx) the unit-converter.xlsx file and open it in Excel, LibreOffice Calc, or similar spreadsheet programs.
 Enter a input value, input units and exponents, and an output value is automatically calculated.
 Check detailed error messages in red if no value is returned.
 One common problem is a blank input unit cell--use "." instead.
