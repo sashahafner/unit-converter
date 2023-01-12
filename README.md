@@ -7,6 +7,7 @@ Enter a input value, input units and exponents, and an output value is automatic
 Check detailed error messages in red if no value is returned.
 One common problem is a blank input unit cell--use "." instead.
 The examples below should be helpful for getting started.
+To reset the tool, simply close the file without saving changes.
 
 # Examples
 ## 1. Water supply volume
@@ -21,6 +22,10 @@ What is the conversion factor needed to scale up this mass flux unit?
 How long does it take light to travel the 91.4 million miles from the Sun to Earth? 
 ![image](https://user-images.githubusercontent.com/35272876/211881719-a1e748e6-af6a-4099-816a-f31d90d681d8.png)
 See the "C" sheet to find a description of the available constants.
+
+## 4. Simple pressure conversion
+![image](https://user-images.githubusercontent.com/35272876/212169989-fbe766de-3188-4483-9e21-fadad2382a13.png)
+
 
 # More details
 Use the "Regular" sheet unless you want to carry out a calculation that includes constants (see example 3 above).
