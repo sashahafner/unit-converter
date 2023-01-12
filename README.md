@@ -3,7 +3,7 @@ Free spreadsheet-based unit converter
 
 # Getting started
 [Download](https://github.com/sashahafner/unit-converter/raw/main/unit-converter.xlsx) the unit-converter.xlsx file and open it in Excel, LibreOffice Calc, or similar spreadsheet programs.
-Enter a input value, input units and exponents, and an output value is automatically calculated.
+Enter a input value, enter or select input and output units and exponents, and an output value is automatically calculated.
 Check detailed error messages in red if no value is returned.
 One common problem is a blank input unit cell. 
 Be sure to use "." instead.
@@ -35,4 +35,4 @@ See the "C" sheet to find a description of the available constants.
 Use the "Regular" sheet unless you want to carry out a calculation that includes constants (see example 3 above).
 
 The S, D, F, and C sheets contain SI prefixes, dimensions, conversion factors, and constants.
-Users can find descriptions and sources in these sheets, or add additional factors or constants.
+Users can find descriptions (e.g., to check abbreviations) and sources in these sheets, or add additional factors or constants.
