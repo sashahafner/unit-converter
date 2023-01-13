@@ -35,6 +35,13 @@ Miles per gallong to L per 100 km.
 This requires a bit of thinking to set up.
 ![image](https://user-images.githubusercontent.com/35272876/212348035-72e01bc5-903e-4529-a865-a2573f61ab08.png)
 
+## 7. Kinetic energy problem
+How much kinetic energy in kJ is in a 2000 lb car traveling at 60 mph? And how does that compare to a 200 lb bicycle (+ rider) traveling 20 mph?
+![image](https://user-images.githubusercontent.com/35272876/212349315-632b4579-9e30-4dd3-ae9b-d7d3bd65403e.png)
+
+![image](https://user-images.githubusercontent.com/35272876/212349620-d7a03e36-501f-44b3-91bc-04a246ff2a9a.png)
+
+
 
 
 # More details
