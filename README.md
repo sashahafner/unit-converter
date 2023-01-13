@@ -30,6 +30,12 @@ See the "C" sheet to find a description of the available constants.
 ## 5. Set units for ideal gas constant
 ![image](https://user-images.githubusercontent.com/35272876/212171575-026cf3d7-2cc7-438a-b2ab-b5420b891e1d.png)
 
+## 6. Convert auto fuel efficiency
+Miles per gallong to L per 100 km.
+This requires a bit of thinking to set up.
+![image](https://user-images.githubusercontent.com/35272876/212348035-72e01bc5-903e-4529-a865-a2573f61ab08.png)
+
+
 
 # More details
 Use the "Regular" sheet unless you want to carry out a calculation that includes constants (see example 3 above).
