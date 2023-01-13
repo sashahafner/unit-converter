@@ -49,3 +49,6 @@ Use the "Regular" sheet unless you want to carry out a calculation that includes
 
 The S, D, F, and C sheets contain SI prefixes, dimensions, conversion factors, and constants.
 Users can find descriptions (e.g., to check abbreviations) and sources in these sheets, or add additional factors or constants.
+
+Calculations are carried out in some hidden sheets.
+If interested, just use the right-click menu to "un-hide" or show the hidden sheets.
