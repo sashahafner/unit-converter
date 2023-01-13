@@ -36,11 +36,11 @@ This requires a bit of thinking to set up.
 ![image](https://user-images.githubusercontent.com/35272876/212348035-72e01bc5-903e-4529-a865-a2573f61ab08.png)
 
 ## 7. Kinetic energy problem
-How much kinetic energy in kJ is in a 2000 lb car traveling at 60 mph? And how does that compare to a 200 lb bicycle (+ rider) traveling 20 mph?
-![image](https://user-images.githubusercontent.com/35272876/212349315-632b4579-9e30-4dd3-ae9b-d7d3bd65403e.png)
+How much kinetic energy in kJ is in a 4000 lb car traveling at 60 mph? And how does that compare to a 200 lb bicycle (+ rider) traveling 20 mph?
+For this we need to know that kinetic energy is given by 1/2 * m * v^2.
+![image](https://user-images.githubusercontent.com/35272876/212388001-16e6c379-1dd1-4cec-bc22-dc1a6ab5238d.png)
 
-![image](https://user-images.githubusercontent.com/35272876/212349620-d7a03e36-501f-44b3-91bc-04a246ff2a9a.png)
-
+![image](https://user-images.githubusercontent.com/35272876/212388084-048957aa-e858-45c9-9f75-543b91bd26fc.png)
 
 
 
