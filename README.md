@@ -10,6 +10,12 @@ Be sure to use "." instead.
 The examples below should be helpful for getting started.
 To reset the tool, simply close the file without saving changes.
 
+# Contact
+For users with a GitHub account, use [Discussions](https://github.com/sashahafner/unit-converter/discussions) to send feedback or get help.
+For bugs, [Issues](https://github.com/sashahafner/unit-converter/issues) is a more appropriate place.
+
+Users without a GitHub account can find my contact information [here](https://au.dk/sasha.hafner@bce) or [here](https://sites.google.com/hafnerconsulting.com/hafnerconsulting).
+
 # Examples
 ## 1. Water supply volume
 How many cubic meters is 400,000 acre-feet of water?
